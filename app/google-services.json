@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1082137737584",
+    "firebase_url": "https://noorsproject-b74c4.firebaseio.com",
+    "project_id": "noorsproject-b74c4",
+    "storage_bucket": "noorsproject-b74c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082137737584:android:0f18e3638acc7500",
+        "android_client_info": {
+          "package_name": "com.noor.af.noortasksmanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082137737584-0lb58s6fvqo6m9dr2hro4rohlvlquvca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noor.af.noortasksmanger",
+            "certificate_hash": "207C202ECE9FFC5136A38028C1532ACC3AB7EAF8"
+          }
+        },
+        {
+          "client_id": "1082137737584-8rlhjj9qr7dt8l6tvfc1072a6uegiov0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54x8Rtw-TQcv878ozAnXDk4tV4G8Dz68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082137737584-8rlhjj9qr7dt8l6tvfc1072a6uegiov0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

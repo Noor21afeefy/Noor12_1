@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NoorTasksManger</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="SignUp">Sign UP</string>
+    <string name="Login">Log In</string>
+    <string name="forgotmypassword">Forgot MyPassword</string>
+    <string name="email">Email</string>
+    <string name="Fullname">Full Name</string>
+    <string name="password">password</string>
+    <string name="repassword">re-password</string>
+    <string name="text">Text</string>
+    <string name="fastadd">Fast Add</string>
+    <string name="tasktext">Task Text</string>
+    <string name="phone">Phone</string>
+    <string name="location">Location</string>
+    <string name="save">Save</string>
+    <string name="contacts">Contacts</string>
+    <string name="logout">Log Out</string>
+    <string name="Settings">Settings</string>
+</resources>
